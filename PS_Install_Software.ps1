@@ -16,29 +16,16 @@
 
 # Software to be installed (Chocolatey Repo)
 $Packages = @(  '7zip', 
-                'displaylink', 
                 'microsoft-edge',  
                 'nextcloud-client', 
                 'vscode', 
                 'windbg',
-                'citrix-workspace',
                 'vcredist-all',
-                'adobereader',
                 'lavfilters',
-                'lessmsi',
                 'orca',
                 'patchcleaner',
                 'putty',
-                'spotify',
-                'Signal',
-                'teamviewer',
-                'webpicmd',
-                #'wixedit',
                 'winscp', 
-                'Whatsapp',
-                'yubikey-manager',
-                'microsoft-teams',
-                'Outlookcaldav',
                 'visualstudio2019community'
             )
 

@@ -6,11 +6,10 @@ And it should make any windows 10 devices usefull for me i created this script t
 Its not intended to solve every issue but just to help me to be quicker up and running. Hopfully you can use this as a startingpoint for creating your own (better) solution
 Change the following arrays and fill them with the software you need (or want to remove)
 
-$Packages 
-$WebPIPackages
-$PowershellModules
-$WindowsFeaturePackages
-$Bloatware
+- $Packages
+- $WebPIPackages
+- $PowershellModules
+- $WindowsFeaturePackages
+- $Bloatware
 
-The bloatware list i found somewhere online and can not take credit for the extensive research is took to generate that. If i find the original creator i will add the credits due
-(If you are the creator contact me)
+For the bloatware list i used https://github.com/Sycnex/Windows10Debloater as a source so credits for Sycnex
